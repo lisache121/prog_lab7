@@ -1,0 +1,7 @@
+2022-06-26 22:04:50,701 TRACE  [main] server started 
+2022-06-26 22:05:05,850 INFO  [main] New sign_in command request has been received. 
+2022-06-26 22:05:05,853 INFO  [main] The response has been sent to the client. 
+2022-06-26 22:05:37,151 INFO  [main] New update command request has been received. 
+2022-06-26 22:05:37,237 INFO  [main] The response has been sent to the client. 
+2022-06-26 22:06:02,640 INFO  [main] New remove_by_id command request has been received. 
+2022-06-26 22:06:02,711 INFO  [main] The response has been sent to the client. 

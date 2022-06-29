@@ -1,0 +1,45 @@
+2022-06-27 00:09:44,043 TRACE  [main] server started 
+2022-06-27 00:10:28,753 INFO  [main] New sign_up command request has been received. 
+2022-06-27 00:10:28,974 INFO  [main] The response has been sent to the client. 
+2022-06-27 00:10:33,472 INFO  [main] New show command request has been received. 
+2022-06-27 00:10:33,544 INFO  [main] The response has been sent to the client. 
+2022-06-27 00:10:49,982 INFO  [main] New add command request has been received. 
+2022-06-27 00:10:50,316 INFO  [main] The response has been sent to the client. 
+2022-06-27 00:10:53,220 INFO  [main] New show command request has been received. 
+2022-06-27 00:10:53,314 INFO  [main] The response has been sent to the client. 
+2022-06-27 00:11:02,317 INFO  [main] New remove_by_id command request has been received. 
+2022-06-27 00:11:02,535 INFO  [main] The response has been sent to the client. 
+2022-06-27 00:11:35,046 INFO  [main] New sign_in command request has been received. 
+2022-06-27 00:11:35,047 INFO  [main] The response has been sent to the client. 
+2022-06-27 00:12:09,848 INFO  [main] New add command request has been received. 
+2022-06-27 00:12:10,206 INFO  [main] The response has been sent to the client. 
+2022-06-27 00:12:12,972 INFO  [main] New show command request has been received. 
+2022-06-27 00:12:13,050 INFO  [main] The response has been sent to the client. 
+2022-06-27 00:12:47,804 INFO  [main] New sign_up command request has been received. 
+2022-06-27 00:12:47,875 INFO  [main] The response has been sent to the client. 
+2022-06-27 00:12:54,687 INFO  [main] New sign_in command request has been received. 
+2022-06-27 00:12:54,688 INFO  [main] The response has been sent to the client. 
+2022-06-27 00:12:59,152 INFO  [main] New show command request has been received. 
+2022-06-27 00:12:59,214 INFO  [main] The response has been sent to the client. 
+2022-06-27 00:13:05,478 INFO  [main] New remove_by_id command request has been received. 
+2022-06-27 00:13:05,675 INFO  [main] The response has been sent to the client. 
+2022-06-27 00:13:08,526 INFO  [main] New show command request has been received. 
+2022-06-27 00:13:08,592 INFO  [main] The response has been sent to the client. 
+2022-06-27 00:14:09,785 INFO  [main] New add command request has been received. 
+2022-06-27 00:14:10,207 INFO  [main] The response has been sent to the client. 
+2022-06-27 00:14:12,736 INFO  [main] New show command request has been received. 
+2022-06-27 00:14:12,796 INFO  [main] The response has been sent to the client. 
+2022-06-27 00:14:40,934 INFO  [main] New sign_in command request has been received. 
+2022-06-27 00:14:40,935 INFO  [main] The response has been sent to the client. 
+2022-06-27 00:14:44,020 INFO  [main] New show command request has been received. 
+2022-06-27 00:14:44,090 INFO  [main] The response has been sent to the client. 
+2022-06-27 00:14:51,801 INFO  [main] New remove_by_id command request has been received. 
+2022-06-27 00:14:51,982 INFO  [main] The response has been sent to the client. 
+2022-06-27 00:14:54,524 INFO  [main] New show command request has been received. 
+2022-06-27 00:14:54,599 INFO  [main] The response has been sent to the client. 
+2022-06-27 00:15:01,826 INFO  [main] New remove_by_id command request has been received. 
+2022-06-27 00:15:02,070 INFO  [main] The response has been sent to the client. 
+2022-06-27 00:15:04,930 INFO  [main] New show command request has been received. 
+2022-06-27 00:15:05,002 INFO  [main] The response has been sent to the client. 
+2022-06-27 00:19:10,366 INFO  [main] New sign_in command request has been received. 
+2022-06-27 00:19:10,366 INFO  [main] The response has been sent to the client. 

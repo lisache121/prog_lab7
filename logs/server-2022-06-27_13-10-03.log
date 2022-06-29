@@ -1,0 +1,6 @@
+2022-06-27 13:10:03,119 TRACE  [main] server started 
+2022-06-27 13:10:20,122 INFO  [pool-2-thread-1] New sign_in command request has been received. 
+2022-06-27 13:10:20,122 INFO  [pool-2-thread-1] sign_in command request have been matched to a command. 
+2022-06-27 13:10:20,201 INFO  [pool-3-thread-1] sign_in command has been handled. 
+2022-06-27 13:10:20,201 TRACE  [pool-3-thread-1] Response message:
+you have successfully logged in 

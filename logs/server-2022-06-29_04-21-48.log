@@ -1,0 +1,8 @@
+2022-06-29 04:21:49,035 TRACE  [main] server started 
+2022-06-29 04:21:49,588 INFO  [main] Authorization was succesfull 
+2022-06-29 04:22:02,620 INFO  [pool-5-thread-1] New sign_in command request has been received. 
+2022-06-29 04:22:02,726 INFO  [ForkJoinPool.commonPool-worker-9] Command was executed 
+2022-06-29 04:22:02,737 INFO  [main] The response has been sent to the client. 
+2022-06-29 04:22:04,522 INFO  [pool-5-thread-1] New show command request has been received. 
+2022-06-29 04:22:04,704 INFO  [main] Command was executed 
+2022-06-29 04:22:04,706 INFO  [main] The response has been sent to the client. 

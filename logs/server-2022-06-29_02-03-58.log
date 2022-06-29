@@ -1,0 +1,63 @@
+2022-06-29 02:03:58,759 TRACE  [main] server started 
+2022-06-29 02:03:59,136 ERROR  [main] There is no configuration file. Try to authorize using console 
+2022-06-29 02:04:28,308 INFO  [pool-2-thread-1] New sign_up command request has been received. 
+2022-06-29 02:04:28,309 INFO  [pool-2-thread-1] sign_up command request have been matched to a command. 
+2022-06-29 02:04:28,504 INFO  [pool-4-thread-1] The response has been sent to the client. 
+2022-06-29 02:04:31,770 INFO  [pool-2-thread-2] New show command request has been received. 
+2022-06-29 02:04:31,771 INFO  [pool-2-thread-2] show command request have been matched to a command. 
+2022-06-29 02:04:31,923 INFO  [pool-4-thread-2] The response has been sent to the client. 
+2022-06-29 02:04:42,734 INFO  [pool-2-thread-3] New show command request has been received. 
+2022-06-29 02:04:42,735 INFO  [pool-2-thread-3] show command request have been matched to a command. 
+2022-06-29 02:04:42,863 INFO  [pool-4-thread-3] The response has been sent to the client. 
+2022-06-29 02:04:44,817 INFO  [pool-2-thread-4] New show command request has been received. 
+2022-06-29 02:04:44,818 INFO  [pool-2-thread-4] show command request have been matched to a command. 
+2022-06-29 02:04:44,992 INFO  [pool-4-thread-4] The response has been sent to the client. 
+2022-06-29 02:04:46,808 INFO  [pool-2-thread-5] New show command request has been received. 
+2022-06-29 02:04:46,808 INFO  [pool-2-thread-5] show command request have been matched to a command. 
+2022-06-29 02:04:46,935 INFO  [pool-4-thread-5] The response has been sent to the client. 
+2022-06-29 02:04:52,231 INFO  [pool-2-thread-6] New show command request has been received. 
+2022-06-29 02:04:52,232 INFO  [pool-2-thread-6] show command request have been matched to a command. 
+2022-06-29 02:04:52,363 INFO  [pool-4-thread-6] The response has been sent to the client. 
+2022-06-29 02:04:53,850 INFO  [pool-2-thread-7] New show command request has been received. 
+2022-06-29 02:04:53,851 INFO  [pool-2-thread-7] show command request have been matched to a command. 
+2022-06-29 02:04:53,987 INFO  [pool-4-thread-7] The response has been sent to the client. 
+2022-06-29 02:04:55,141 INFO  [pool-2-thread-8] New show command request has been received. 
+2022-06-29 02:04:55,142 INFO  [pool-2-thread-8] show command request have been matched to a command. 
+2022-06-29 02:04:55,287 INFO  [pool-4-thread-8] The response has been sent to the client. 
+2022-06-29 02:04:56,555 INFO  [pool-2-thread-9] New show command request has been received. 
+2022-06-29 02:04:56,556 INFO  [pool-2-thread-9] show command request have been matched to a command. 
+2022-06-29 02:04:56,700 INFO  [pool-4-thread-9] The response has been sent to the client. 
+2022-06-29 02:04:58,392 INFO  [pool-2-thread-10] New show command request has been received. 
+2022-06-29 02:04:58,393 INFO  [pool-2-thread-10] show command request have been matched to a command. 
+2022-06-29 02:04:58,543 INFO  [pool-4-thread-10] The response has been sent to the client. 
+2022-06-29 02:05:00,066 INFO  [pool-2-thread-11] New show command request has been received. 
+2022-06-29 02:05:00,066 INFO  [pool-2-thread-11] show command request have been matched to a command. 
+2022-06-29 02:05:00,219 INFO  [pool-4-thread-11] The response has been sent to the client. 
+2022-06-29 02:05:01,683 INFO  [pool-2-thread-12] New show command request has been received. 
+2022-06-29 02:05:01,684 INFO  [pool-2-thread-12] show command request have been matched to a command. 
+2022-06-29 02:05:01,827 INFO  [pool-4-thread-12] The response has been sent to the client. 
+2022-06-29 02:05:03,348 INFO  [pool-2-thread-13] New show command request has been received. 
+2022-06-29 02:05:03,348 INFO  [pool-2-thread-13] show command request have been matched to a command. 
+2022-06-29 02:05:03,492 INFO  [pool-4-thread-13] The response has been sent to the client. 
+2022-06-29 02:05:04,938 INFO  [pool-2-thread-14] New show command request has been received. 
+2022-06-29 02:05:04,939 INFO  [pool-2-thread-14] show command request have been matched to a command. 
+2022-06-29 02:05:05,067 INFO  [pool-4-thread-14] The response has been sent to the client. 
+2022-06-29 02:05:06,615 INFO  [pool-2-thread-15] New show command request has been received. 
+2022-06-29 02:05:06,615 INFO  [pool-2-thread-15] show command request have been matched to a command. 
+2022-06-29 02:05:06,775 INFO  [pool-4-thread-15] The response has been sent to the client. 
+2022-06-29 02:05:08,338 INFO  [pool-2-thread-16] New show command request has been received. 
+2022-06-29 02:05:08,339 INFO  [pool-2-thread-16] show command request have been matched to a command. 
+2022-06-29 02:05:08,467 INFO  [pool-4-thread-16] The response has been sent to the client. 
+2022-06-29 02:05:10,508 INFO  [pool-2-thread-17] New show command request has been received. 
+2022-06-29 02:05:10,509 INFO  [pool-2-thread-17] show command request have been matched to a command. 
+2022-06-29 02:05:10,639 INFO  [pool-4-thread-17] The response has been sent to the client. 
+2022-06-29 02:05:12,179 INFO  [pool-2-thread-18] New show command request has been received. 
+2022-06-29 02:05:12,179 INFO  [pool-2-thread-18] show command request have been matched to a command. 
+2022-06-29 02:05:12,315 INFO  [pool-4-thread-18] The response has been sent to the client. 
+2022-06-29 02:05:47,316 INFO  [pool-2-thread-19] New add command request has been received. 
+2022-06-29 02:05:47,316 INFO  [pool-2-thread-19] add {element} command request have been matched to a command. 
+2022-06-29 02:05:47,920 INFO  [pool-4-thread-19] The response has been sent to the client. 
+2022-06-29 02:05:50,464 INFO  [pool-2-thread-20] New show command request has been received. 
+2022-06-29 02:05:50,465 INFO  [pool-2-thread-20] show command request have been matched to a command. 
+2022-06-29 02:05:50,620 INFO  [pool-4-thread-20] The response has been sent to the client. 
+2022-06-29 02:06:04,420 INFO  [Thread-1] exit command. program will be stopped 

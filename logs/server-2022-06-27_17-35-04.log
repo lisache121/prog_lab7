@@ -1,0 +1,14 @@
+2022-06-27 17:35:04,639 TRACE  [main] server started 
+2022-06-27 17:35:05,390 INFO  [main] Authorization was succesfull 
+2022-06-27 17:35:24,289 INFO  [pool-2-thread-1] New sign_up command request has been received. 
+2022-06-27 17:35:24,291 INFO  [pool-2-thread-1] sign_up command request have been matched to a command. 
+2022-06-27 17:35:24,520 INFO  [pool-4-thread-1] The response has been sent to the client. 
+2022-06-27 17:35:28,535 INFO  [pool-2-thread-2] New show command request has been received. 
+2022-06-27 17:35:28,540 INFO  [pool-2-thread-2] show command request have been matched to a command. 
+2022-06-27 17:35:28,821 INFO  [pool-4-thread-2] The response has been sent to the client. 
+2022-06-27 17:37:42,239 INFO  [pool-2-thread-3] New sign_up command request has been received. 
+2022-06-27 17:37:42,240 INFO  [pool-2-thread-3] sign_up command request have been matched to a command. 
+2022-06-27 17:37:42,401 INFO  [pool-4-thread-3] The response has been sent to the client. 
+2022-06-27 17:44:36,688 INFO  [pool-2-thread-4] New add command request has been received. 
+2022-06-27 17:44:36,689 INFO  [pool-2-thread-4] add {element} command request have been matched to a command. 
+2022-06-27 17:44:55,963 INFO  [pool-4-thread-4] The response has been sent to the client. 

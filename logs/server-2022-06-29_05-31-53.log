@@ -1,0 +1,22 @@
+2022-06-29 05:31:53,392 TRACE  [main] server started 
+2022-06-29 05:31:53,561 INFO  [main] Authorization was succesfull 
+2022-06-29 05:32:02,990 INFO  [pool-2-thread-1] New execute_script command request has been received. 
+2022-06-29 05:32:03,000 INFO  [pool-4-thread-1] The response has been sent to the client. 
+2022-06-29 05:32:03,010 INFO  [pool-2-thread-2] New add command request has been received. 
+2022-06-29 05:32:03,327 INFO  [pool-4-thread-2] The response has been sent to the client. 
+2022-06-29 05:32:03,327 INFO  [pool-2-thread-3] New show command request has been received. 
+2022-06-29 05:32:03,449 INFO  [pool-4-thread-3] The response has been sent to the client. 
+2022-06-29 05:32:03,449 INFO  [pool-2-thread-4] New show command request has been received. 
+2022-06-29 05:32:03,570 INFO  [pool-4-thread-4] The response has been sent to the client. 
+2022-06-29 05:32:03,570 INFO  [pool-2-thread-5] New show command request has been received. 
+2022-06-29 05:32:03,712 INFO  [pool-4-thread-5] The response has been sent to the client. 
+2022-06-29 05:32:03,712 INFO  [pool-2-thread-6] New show command request has been received. 
+2022-06-29 05:32:03,835 INFO  [pool-4-thread-6] The response has been sent to the client. 
+2022-06-29 05:32:03,835 INFO  [pool-2-thread-7] New show command request has been received. 
+2022-06-29 05:32:03,955 INFO  [pool-4-thread-7] The response has been sent to the client. 
+2022-06-29 05:32:03,957 INFO  [pool-2-thread-8] New print_ascending command request has been received. 
+2022-06-29 05:32:04,015 INFO  [pool-4-thread-8] The response has been sent to the client. 
+2022-06-29 05:32:04,017 INFO  [pool-2-thread-9] New show command request has been received. 
+2022-06-29 05:32:04,139 INFO  [pool-4-thread-9] The response has been sent to the client. 
+2022-06-29 05:32:04,139 INFO  [pool-2-thread-10] New help command request has been received. 
+2022-06-29 05:32:04,139 INFO  [pool-4-thread-10] The response has been sent to the client. 

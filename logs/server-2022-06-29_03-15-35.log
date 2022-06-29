@@ -1,0 +1,29 @@
+2022-06-29 03:15:35,816 TRACE  [main] server started 
+2022-06-29 03:15:36,400 INFO  [main] Authorization was succesfull 
+2022-06-29 03:15:44,950 INFO  [pool-2-thread-1] New sign_in command request has been received. 
+2022-06-29 03:15:45,053 INFO  [pool-4-thread-1] The response has been sent to the client. 
+2022-06-29 03:15:47,245 INFO  [pool-2-thread-2] New show command request has been received. 
+2022-06-29 03:15:47,403 INFO  [pool-4-thread-2] The response has been sent to the client. 
+2022-06-29 03:15:52,446 INFO  [pool-2-thread-3] New show command request has been received. 
+2022-06-29 03:15:52,588 INFO  [pool-4-thread-3] The response has been sent to the client. 
+2022-06-29 03:15:57,269 ERROR  [Thread-1] There is no such command on server 
+2022-06-29 03:16:03,362 INFO  [pool-2-thread-4] New show command request has been received. 
+2022-06-29 03:16:03,503 INFO  [pool-4-thread-4] The response has been sent to the client. 
+2022-06-29 03:16:05,192 INFO  [pool-2-thread-5] New show command request has been received. 
+2022-06-29 03:16:05,350 INFO  [pool-4-thread-5] The response has been sent to the client. 
+2022-06-29 03:16:06,777 INFO  [pool-2-thread-6] New show command request has been received. 
+2022-06-29 03:16:06,906 INFO  [pool-4-thread-6] The response has been sent to the client. 
+2022-06-29 03:16:08,211 INFO  [pool-2-thread-7] New show command request has been received. 
+2022-06-29 03:16:08,370 INFO  [pool-4-thread-7] The response has been sent to the client. 
+2022-06-29 03:16:09,657 INFO  [pool-2-thread-8] New show command request has been received. 
+2022-06-29 03:16:09,817 INFO  [pool-4-thread-8] The response has been sent to the client. 
+2022-06-29 03:16:11,219 INFO  [pool-2-thread-9] New show command request has been received. 
+2022-06-29 03:16:11,393 INFO  [pool-4-thread-9] The response has been sent to the client. 
+2022-06-29 03:16:12,323 INFO  [pool-2-thread-10] New show command request has been received. 
+2022-06-29 03:16:12,790 INFO  [pool-4-thread-10] The response has been sent to the client. 
+2022-06-29 03:16:14,394 INFO  [pool-2-thread-2] New show command request has been received. 
+2022-06-29 03:16:14,668 INFO  [pool-4-thread-2] The response has been sent to the client. 
+2022-06-29 03:16:16,289 INFO  [pool-2-thread-3] New show command request has been received. 
+2022-06-29 03:16:17,024 INFO  [pool-4-thread-3] The response has been sent to the client. 
+2022-06-29 03:16:18,107 INFO  [pool-2-thread-4] New help command request has been received. 
+2022-06-29 03:16:18,107 INFO  [pool-4-thread-4] The response has been sent to the client. 

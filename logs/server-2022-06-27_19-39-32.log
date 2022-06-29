@@ -1,0 +1,5 @@
+2022-06-27 19:39:32,607 TRACE  [main] server started 
+2022-06-27 19:39:33,082 INFO  [main] Authorization was succesfull 
+2022-06-27 19:39:56,435 INFO  [pool-2-thread-1] New sign_up command request has been received. 
+2022-06-27 19:39:56,436 INFO  [pool-2-thread-1] sign_up command request have been matched to a command. 
+2022-06-27 19:39:56,658 INFO  [pool-4-thread-1] The response has been sent to the client. 

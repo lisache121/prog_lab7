@@ -1,0 +1,21 @@
+2022-06-27 09:46:34,822 TRACE  [main] server started 
+2022-06-27 09:46:57,720 INFO  [main] New sign_in command request has been received. 
+2022-06-27 09:46:57,864 INFO  [main] The response has been sent to the client. 
+2022-06-27 09:47:00,731 INFO  [main] New execute_script command request has been received. 
+2022-06-27 09:47:00,732 INFO  [main] The response has been sent to the client. 
+2022-06-27 09:47:00,771 INFO  [main] New add command request has been received. 
+2022-06-27 09:47:01,483 INFO  [main] The response has been sent to the client. 
+2022-06-27 09:47:01,486 INFO  [main] New show command request has been received. 
+2022-06-27 09:47:01,805 INFO  [main] The response has been sent to the client. 
+2022-06-27 09:47:01,809 INFO  [main] New print_ascending command request has been received. 
+2022-06-27 09:47:02,004 INFO  [main] The response has been sent to the client. 
+2022-06-27 09:47:02,008 INFO  [main] New show command request has been received. 
+2022-06-27 09:47:02,204 INFO  [main] The response has been sent to the client. 
+2022-06-27 09:47:02,208 INFO  [main] New remove_head command request has been received. 
+2022-06-27 09:47:02,443 INFO  [main] The response has been sent to the client. 
+2022-06-27 09:47:02,454 INFO  [main] New remove_by_id command request has been received. 
+2022-06-27 09:47:02,920 INFO  [main] The response has been sent to the client. 
+2022-06-27 09:47:02,924 INFO  [main] New max_by_description command request has been received. 
+2022-06-27 09:47:03,126 INFO  [main] The response has been sent to the client. 
+2022-06-27 09:47:03,131 INFO  [main] New help command request has been received. 
+2022-06-27 09:47:03,133 INFO  [main] The response has been sent to the client. 

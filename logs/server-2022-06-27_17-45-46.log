@@ -1,0 +1,53 @@
+2022-06-27 17:45:46,702 TRACE  [main] server started 
+2022-06-27 17:45:47,334 INFO  [main] Authorization was succesfull 
+2022-06-27 17:46:06,150 INFO  [pool-2-thread-1] New sign_up command request has been received. 
+2022-06-27 17:46:06,150 INFO  [pool-2-thread-1] sign_up command request have been matched to a command. 
+2022-06-27 17:46:06,784 INFO  [pool-4-thread-1] The response has been sent to the client. 
+2022-06-27 17:46:29,661 INFO  [pool-2-thread-2] New add command request has been received. 
+2022-06-27 17:46:29,663 INFO  [pool-2-thread-2] add {element} command request have been matched to a command. 
+2022-06-27 17:46:30,546 INFO  [pool-4-thread-2] The response has been sent to the client. 
+2022-06-27 17:46:38,035 INFO  [pool-2-thread-3] New show command request has been received. 
+2022-06-27 17:46:38,036 INFO  [pool-2-thread-3] show command request have been matched to a command. 
+2022-06-27 17:46:38,937 INFO  [pool-4-thread-3] The response has been sent to the client. 
+2022-06-27 17:49:19,831 INFO  [pool-2-thread-4] New update command request has been received. 
+2022-06-27 17:49:19,832 INFO  [pool-2-thread-4] update id {element} command request have been matched to a command. 
+2022-06-27 17:49:20,151 INFO  [pool-4-thread-4] The response has been sent to the client. 
+2022-06-27 17:49:27,058 INFO  [pool-2-thread-5] New show command request has been received. 
+2022-06-27 17:49:27,059 INFO  [pool-2-thread-5] show command request have been matched to a command. 
+2022-06-27 17:49:27,194 INFO  [pool-4-thread-5] The response has been sent to the client. 
+2022-06-27 17:50:43,618 INFO  [pool-2-thread-6] New execute_script command request has been received. 
+2022-06-27 17:50:43,618 INFO  [pool-2-thread-6] execute_script file_name command request have been matched to a command. 
+2022-06-27 17:50:43,619 INFO  [pool-4-thread-6] The response has been sent to the client. 
+2022-06-27 17:50:43,623 INFO  [pool-2-thread-7] New add command request has been received. 
+2022-06-27 17:50:43,623 INFO  [pool-2-thread-7] add {element} command request have been matched to a command. 
+2022-06-27 17:50:44,007 INFO  [pool-4-thread-7] The response has been sent to the client. 
+2022-06-27 17:50:44,009 INFO  [pool-2-thread-8] New show command request has been received. 
+2022-06-27 17:50:44,009 INFO  [pool-2-thread-8] show command request have been matched to a command. 
+2022-06-27 17:50:44,128 INFO  [pool-4-thread-8] The response has been sent to the client. 
+2022-06-27 17:50:44,129 INFO  [pool-2-thread-9] New print_ascending command request has been received. 
+2022-06-27 17:50:44,129 INFO  [pool-2-thread-9] print_ascending command request have been matched to a command. 
+2022-06-27 17:50:44,206 INFO  [pool-4-thread-9] The response has been sent to the client. 
+2022-06-27 17:50:44,208 INFO  [pool-2-thread-10] New show command request has been received. 
+2022-06-27 17:50:44,208 INFO  [pool-2-thread-10] show command request have been matched to a command. 
+2022-06-27 17:50:44,323 ERROR  [main] java.lang.NullPointerException 
+2022-06-27 17:50:44,324 INFO  [pool-4-thread-10] The response has been sent to the client. 
+2022-06-27 17:50:44,325 INFO  [pool-2-thread-2] New remove_head command request has been received. 
+2022-06-27 17:50:44,325 INFO  [pool-2-thread-2] remove_head command request have been matched to a command. 
+2022-06-27 17:50:44,511 ERROR  [main] java.lang.NullPointerException 
+2022-06-27 17:50:44,511 INFO  [pool-4-thread-1] The response has been sent to the client. 
+2022-06-27 17:50:44,513 INFO  [pool-2-thread-4] New remove_by_id command request has been received. 
+2022-06-27 17:50:44,513 INFO  [pool-2-thread-4] remove_by_id id command request have been matched to a command. 
+2022-06-27 17:50:44,644 INFO  [pool-4-thread-2] The response has been sent to the client. 
+2022-06-27 17:50:44,647 INFO  [pool-2-thread-5] New max_by_description command request has been received. 
+2022-06-27 17:50:44,647 INFO  [pool-2-thread-5] max_by_description command request have been matched to a command. 
+2022-06-27 17:50:44,708 INFO  [pool-4-thread-3] The response has been sent to the client. 
+2022-06-27 17:50:44,710 INFO  [pool-2-thread-6] New help command request has been received. 
+2022-06-27 17:50:44,710 INFO  [pool-2-thread-6] help command request have been matched to a command. 
+2022-06-27 17:50:44,710 ERROR  [main] java.lang.NullPointerException 
+2022-06-27 17:50:44,711 INFO  [pool-4-thread-4] The response has been sent to the client. 
+2022-06-27 17:51:20,650 INFO  [pool-2-thread-8] New clear command request has been received. 
+2022-06-27 17:51:20,650 INFO  [pool-2-thread-8] clear command request have been matched to a command. 
+2022-06-27 17:51:20,793 INFO  [pool-4-thread-5] The response has been sent to the client. 
+2022-06-27 17:51:25,138 INFO  [pool-2-thread-9] New show command request has been received. 
+2022-06-27 17:51:25,138 INFO  [pool-2-thread-9] show command request have been matched to a command. 
+2022-06-27 17:51:25,267 INFO  [pool-4-thread-6] The response has been sent to the client. 

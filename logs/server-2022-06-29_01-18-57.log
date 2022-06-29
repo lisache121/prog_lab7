@@ -1,0 +1,14 @@
+2022-06-29 01:18:57,742 TRACE  [main] server started 
+2022-06-29 01:18:58,000 ERROR  [main] There is no configuration file. Try to authorize using console 
+2022-06-29 01:19:18,254 INFO  [pool-2-thread-1] New sign_in command request has been received. 
+2022-06-29 01:19:18,254 INFO  [pool-2-thread-1] sign_in command request have been matched to a command. 
+2022-06-29 01:19:18,347 INFO  [pool-4-thread-1] The response has been sent to the client. 
+2022-06-29 01:19:23,114 INFO  [pool-2-thread-2] New show command request has been received. 
+2022-06-29 01:19:23,115 INFO  [pool-2-thread-2] show command request have been matched to a command. 
+2022-06-29 01:19:23,252 INFO  [pool-4-thread-2] The response has been sent to the client. 
+2022-06-29 01:19:36,442 INFO  [pool-2-thread-3] New filter_less_than_age command request has been received. 
+2022-06-29 01:19:36,443 INFO  [pool-2-thread-3] filter_less_than_age age command request have been matched to a command. 
+2022-06-29 01:19:36,507 INFO  [pool-4-thread-3] The response has been sent to the client. 
+2022-06-29 01:19:48,444 INFO  [pool-2-thread-4] New filter_less_than_age command request has been received. 
+2022-06-29 01:19:48,445 INFO  [pool-2-thread-4] filter_less_than_age age command request have been matched to a command. 
+2022-06-29 01:19:48,526 INFO  [pool-4-thread-4] The response has been sent to the client. 

@@ -1,0 +1,27 @@
+2022-06-26 19:23:29,983 TRACE  [main] server started 
+2022-06-26 19:23:45,436 INFO  [main] New sign_in command request has been received. 
+2022-06-26 19:23:45,452 INFO  [main] The response has been sent to the client. 
+2022-06-26 19:23:55,345 INFO  [main] New show command request has been received. 
+2022-06-26 19:23:55,423 INFO  [main] The response has been sent to the client. 
+2022-06-26 19:26:58,169 INFO  [main] New sign_in command request has been received. 
+2022-06-26 19:26:58,169 INFO  [main] The response has been sent to the client. 
+2022-06-26 19:27:00,268 INFO  [main] New show command request has been received. 
+2022-06-26 19:27:00,346 INFO  [main] The response has been sent to the client. 
+2022-06-26 19:29:47,286 INFO  [main] New sign_in command request has been received. 
+2022-06-26 19:29:47,286 INFO  [main] The response has been sent to the client. 
+2022-06-26 19:29:50,980 INFO  [main] New show command request has been received. 
+2022-06-26 19:29:51,058 INFO  [main] The response has been sent to the client. 
+2022-06-26 19:30:57,793 INFO  [main] New sign_in command request has been received. 
+2022-06-26 19:30:57,793 INFO  [main] The response has been sent to the client. 
+2022-06-26 19:31:00,644 INFO  [main] New show command request has been received. 
+2022-06-26 19:31:00,738 INFO  [main] The response has been sent to the client. 
+2022-06-26 19:32:09,310 INFO  [main] New sign_in command request has been received. 
+2022-06-26 19:32:09,310 INFO  [main] The response has been sent to the client. 
+2022-06-26 19:32:11,159 INFO  [main] New show command request has been received. 
+2022-06-26 19:32:11,237 INFO  [main] The response has been sent to the client. 
+2022-06-26 19:37:02,959 INFO  [main] New sign_in command request has been received. 
+2022-06-26 19:37:02,959 INFO  [main] The response has been sent to the client. 
+2022-06-26 19:37:05,892 INFO  [main] New show command request has been received. 
+2022-06-26 19:37:05,954 INFO  [main] The response has been sent to the client. 
+2022-06-26 19:38:14,203 INFO  [main] New sign_in command request has been received. 
+2022-06-26 19:38:14,203 INFO  [main] The response has been sent to the client. 

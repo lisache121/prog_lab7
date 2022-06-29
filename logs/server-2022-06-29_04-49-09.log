@@ -1,0 +1,195 @@
+2022-06-29 04:49:09,786 TRACE  [main] server started 
+2022-06-29 04:49:09,987 INFO  [main] Authorization was succesfull 
+2022-06-29 04:49:18,933 INFO  [pool-2-thread-1] New execute_script command request has been received. 
+2022-06-29 04:49:18,933 INFO  [pool-3-thread-1] execute_script file_name command has been handled. 
+2022-06-29 04:49:18,933 TRACE  [pool-3-thread-1] Response message:
+Executing script c:\users\frodo\ideaprojects\lab7\common\src\main\java\helpers\text.txt 
+2022-06-29 04:49:18,933 INFO  [pool-4-thread-1] The response has been sent to the client. 
+2022-06-29 04:49:18,953 INFO  [pool-2-thread-2] New add command request has been received. 
+2022-06-29 04:49:19,363 INFO  [pool-3-thread-2] add {element} command has been handled. 
+2022-06-29 04:49:19,363 TRACE  [pool-3-thread-2] Response message:
+Element was successfully added to collection 
+2022-06-29 04:49:19,363 INFO  [pool-4-thread-2] The response has been sent to the client. 
+2022-06-29 04:49:19,363 INFO  [pool-2-thread-3] New show command request has been received. 
+2022-06-29 04:49:19,494 INFO  [pool-3-thread-3] show command has been handled. 
+2022-06-29 04:49:19,494 TRACE  [pool-3-thread-3] Response message:
+id = 10, name = O, coordinates: x = 3, y = 23, creationDate=2022-06-29, age=32, description = 'dddd', color = GREEN, type = AIR, size of head = 3 count of eyes = 3.0, count of teeth = 3, creatorName = Liz
+id = 6, name = Od, coordinates: x = 3, y = 3, creationDate=2022-06-29, age=23, description = 'urban', color = GREEN, type = AIR, size of head = 2 count of eyes = 2.0, count of teeth = 2, creatorName = student1
+id = 4, name = Ivan, coordinates: x = 3, y = 3, creationDate=2022-06-29, age=33, description = 'urban', color = BLACK, type = WATER, size of head = 4 count of eyes = 3.0, count of teeth = 2, creatorName = LisaChe
+id = 5, name = Alex, coordinates: x = 3, y = 3, creationDate=2022-06-29, age=24, description = 'w', color = GREEN, type = AIR, size of head = 3 count of eyes = 2.0, count of teeth = 4, creatorName = LisaChe
+id = 9, name = Ivan, coordinates: x = 1, y = 6, creationDate=2022-06-29, age=1, description = 'afsgsd', color = GREEN, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 12, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 13, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 14, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 15, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 16, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 17, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 18, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 19, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 20, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 21, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 22, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 23, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 7, name = Alexiy, coordinates: x = 2, y = 3, creationDate=2022-06-29, age=22, description = 'rrrr', color = WHITE, type = AIR, size of head = 3 count of eyes = 2.0, count of teeth = 3, creatorName = Liz
+ 
+2022-06-29 04:49:19,494 INFO  [pool-4-thread-3] The response has been sent to the client. 
+2022-06-29 04:49:19,494 INFO  [pool-2-thread-4] New show command request has been received. 
+2022-06-29 04:49:19,624 INFO  [pool-3-thread-4] show command has been handled. 
+2022-06-29 04:49:19,624 TRACE  [pool-3-thread-4] Response message:
+id = 10, name = O, coordinates: x = 3, y = 23, creationDate=2022-06-29, age=32, description = 'dddd', color = GREEN, type = AIR, size of head = 3 count of eyes = 3.0, count of teeth = 3, creatorName = Liz
+id = 6, name = Od, coordinates: x = 3, y = 3, creationDate=2022-06-29, age=23, description = 'urban', color = GREEN, type = AIR, size of head = 2 count of eyes = 2.0, count of teeth = 2, creatorName = student1
+id = 4, name = Ivan, coordinates: x = 3, y = 3, creationDate=2022-06-29, age=33, description = 'urban', color = BLACK, type = WATER, size of head = 4 count of eyes = 3.0, count of teeth = 2, creatorName = LisaChe
+id = 5, name = Alex, coordinates: x = 3, y = 3, creationDate=2022-06-29, age=24, description = 'w', color = GREEN, type = AIR, size of head = 3 count of eyes = 2.0, count of teeth = 4, creatorName = LisaChe
+id = 9, name = Ivan, coordinates: x = 1, y = 6, creationDate=2022-06-29, age=1, description = 'afsgsd', color = GREEN, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 12, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 13, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 14, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 15, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 16, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 17, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 18, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 19, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 20, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 21, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 22, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 23, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 7, name = Alexiy, coordinates: x = 2, y = 3, creationDate=2022-06-29, age=22, description = 'rrrr', color = WHITE, type = AIR, size of head = 3 count of eyes = 2.0, count of teeth = 3, creatorName = Liz
+ 
+2022-06-29 04:49:19,624 INFO  [pool-4-thread-4] The response has been sent to the client. 
+2022-06-29 04:49:19,624 INFO  [pool-2-thread-5] New show command request has been received. 
+2022-06-29 04:49:19,756 INFO  [pool-3-thread-5] show command has been handled. 
+2022-06-29 04:49:19,756 TRACE  [pool-3-thread-5] Response message:
+id = 10, name = O, coordinates: x = 3, y = 23, creationDate=2022-06-29, age=32, description = 'dddd', color = GREEN, type = AIR, size of head = 3 count of eyes = 3.0, count of teeth = 3, creatorName = Liz
+id = 6, name = Od, coordinates: x = 3, y = 3, creationDate=2022-06-29, age=23, description = 'urban', color = GREEN, type = AIR, size of head = 2 count of eyes = 2.0, count of teeth = 2, creatorName = student1
+id = 4, name = Ivan, coordinates: x = 3, y = 3, creationDate=2022-06-29, age=33, description = 'urban', color = BLACK, type = WATER, size of head = 4 count of eyes = 3.0, count of teeth = 2, creatorName = LisaChe
+id = 5, name = Alex, coordinates: x = 3, y = 3, creationDate=2022-06-29, age=24, description = 'w', color = GREEN, type = AIR, size of head = 3 count of eyes = 2.0, count of teeth = 4, creatorName = LisaChe
+id = 9, name = Ivan, coordinates: x = 1, y = 6, creationDate=2022-06-29, age=1, description = 'afsgsd', color = GREEN, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 12, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 13, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 14, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 15, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 16, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 17, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 18, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 19, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 20, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 21, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 22, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 23, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 7, name = Alexiy, coordinates: x = 2, y = 3, creationDate=2022-06-29, age=22, description = 'rrrr', color = WHITE, type = AIR, size of head = 3 count of eyes = 2.0, count of teeth = 3, creatorName = Liz
+ 
+2022-06-29 04:49:19,756 INFO  [pool-4-thread-5] The response has been sent to the client. 
+2022-06-29 04:49:19,756 INFO  [pool-2-thread-6] New show command request has been received. 
+2022-06-29 04:49:19,893 INFO  [pool-3-thread-6] show command has been handled. 
+2022-06-29 04:49:19,893 TRACE  [pool-3-thread-6] Response message:
+id = 10, name = O, coordinates: x = 3, y = 23, creationDate=2022-06-29, age=32, description = 'dddd', color = GREEN, type = AIR, size of head = 3 count of eyes = 3.0, count of teeth = 3, creatorName = Liz
+id = 6, name = Od, coordinates: x = 3, y = 3, creationDate=2022-06-29, age=23, description = 'urban', color = GREEN, type = AIR, size of head = 2 count of eyes = 2.0, count of teeth = 2, creatorName = student1
+id = 4, name = Ivan, coordinates: x = 3, y = 3, creationDate=2022-06-29, age=33, description = 'urban', color = BLACK, type = WATER, size of head = 4 count of eyes = 3.0, count of teeth = 2, creatorName = LisaChe
+id = 5, name = Alex, coordinates: x = 3, y = 3, creationDate=2022-06-29, age=24, description = 'w', color = GREEN, type = AIR, size of head = 3 count of eyes = 2.0, count of teeth = 4, creatorName = LisaChe
+id = 9, name = Ivan, coordinates: x = 1, y = 6, creationDate=2022-06-29, age=1, description = 'afsgsd', color = GREEN, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 12, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 13, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 14, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 15, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 16, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 17, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 18, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 19, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 20, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 21, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 22, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 23, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 7, name = Alexiy, coordinates: x = 2, y = 3, creationDate=2022-06-29, age=22, description = 'rrrr', color = WHITE, type = AIR, size of head = 3 count of eyes = 2.0, count of teeth = 3, creatorName = Liz
+ 
+2022-06-29 04:49:19,895 INFO  [pool-4-thread-6] The response has been sent to the client. 
+2022-06-29 04:49:19,895 INFO  [pool-2-thread-7] New show command request has been received. 
+2022-06-29 04:49:20,024 INFO  [pool-3-thread-7] show command has been handled. 
+2022-06-29 04:49:20,024 TRACE  [pool-3-thread-7] Response message:
+id = 10, name = O, coordinates: x = 3, y = 23, creationDate=2022-06-29, age=32, description = 'dddd', color = GREEN, type = AIR, size of head = 3 count of eyes = 3.0, count of teeth = 3, creatorName = Liz
+id = 6, name = Od, coordinates: x = 3, y = 3, creationDate=2022-06-29, age=23, description = 'urban', color = GREEN, type = AIR, size of head = 2 count of eyes = 2.0, count of teeth = 2, creatorName = student1
+id = 4, name = Ivan, coordinates: x = 3, y = 3, creationDate=2022-06-29, age=33, description = 'urban', color = BLACK, type = WATER, size of head = 4 count of eyes = 3.0, count of teeth = 2, creatorName = LisaChe
+id = 5, name = Alex, coordinates: x = 3, y = 3, creationDate=2022-06-29, age=24, description = 'w', color = GREEN, type = AIR, size of head = 3 count of eyes = 2.0, count of teeth = 4, creatorName = LisaChe
+id = 9, name = Ivan, coordinates: x = 1, y = 6, creationDate=2022-06-29, age=1, description = 'afsgsd', color = GREEN, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 12, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 13, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 14, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 15, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 16, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 17, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 18, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 19, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 20, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 21, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 22, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 23, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 7, name = Alexiy, coordinates: x = 2, y = 3, creationDate=2022-06-29, age=22, description = 'rrrr', color = WHITE, type = AIR, size of head = 3 count of eyes = 2.0, count of teeth = 3, creatorName = Liz
+ 
+2022-06-29 04:49:20,026 INFO  [pool-4-thread-7] The response has been sent to the client. 
+2022-06-29 04:49:20,029 INFO  [pool-2-thread-8] New print_ascending command request has been received. 
+2022-06-29 04:49:20,102 INFO  [pool-3-thread-8] print_ascending command has been handled. 
+2022-06-29 04:49:20,103 TRACE  [pool-3-thread-8] Response message:
+Elements in collection in ascending order: 
+id = 10, name = O, coordinates: x = 3, y = 23, creationDate=2022-06-29, age=32, description = 'dddd', color = GREEN, type = AIR, size of head = 3 count of eyes = 3.0, count of teeth = 3, creatorName = Liz
+id = 6, name = Od, coordinates: x = 3, y = 3, creationDate=2022-06-29, age=23, description = 'urban', color = GREEN, type = AIR, size of head = 2 count of eyes = 2.0, count of teeth = 2, creatorName = student1
+id = 4, name = Ivan, coordinates: x = 3, y = 3, creationDate=2022-06-29, age=33, description = 'urban', color = BLACK, type = WATER, size of head = 4 count of eyes = 3.0, count of teeth = 2, creatorName = LisaChe
+id = 5, name = Alex, coordinates: x = 3, y = 3, creationDate=2022-06-29, age=24, description = 'w', color = GREEN, type = AIR, size of head = 3 count of eyes = 2.0, count of teeth = 4, creatorName = LisaChe
+id = 9, name = Ivan, coordinates: x = 1, y = 6, creationDate=2022-06-29, age=1, description = 'afsgsd', color = GREEN, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 12, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 13, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 14, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 15, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 16, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 17, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 18, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 19, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 20, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 21, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 22, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 23, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 7, name = Alexiy, coordinates: x = 2, y = 3, creationDate=2022-06-29, age=22, description = 'rrrr', color = WHITE, type = AIR, size of head = 3 count of eyes = 2.0, count of teeth = 3, creatorName = Liz
+ 
+2022-06-29 04:49:20,104 INFO  [pool-4-thread-8] The response has been sent to the client. 
+2022-06-29 04:49:20,107 INFO  [pool-2-thread-9] New show command request has been received. 
+2022-06-29 04:49:20,234 INFO  [pool-3-thread-9] show command has been handled. 
+2022-06-29 04:49:20,234 TRACE  [pool-3-thread-9] Response message:
+id = 10, name = O, coordinates: x = 3, y = 23, creationDate=2022-06-29, age=32, description = 'dddd', color = GREEN, type = AIR, size of head = 3 count of eyes = 3.0, count of teeth = 3, creatorName = Liz
+id = 6, name = Od, coordinates: x = 3, y = 3, creationDate=2022-06-29, age=23, description = 'urban', color = GREEN, type = AIR, size of head = 2 count of eyes = 2.0, count of teeth = 2, creatorName = student1
+id = 4, name = Ivan, coordinates: x = 3, y = 3, creationDate=2022-06-29, age=33, description = 'urban', color = BLACK, type = WATER, size of head = 4 count of eyes = 3.0, count of teeth = 2, creatorName = LisaChe
+id = 5, name = Alex, coordinates: x = 3, y = 3, creationDate=2022-06-29, age=24, description = 'w', color = GREEN, type = AIR, size of head = 3 count of eyes = 2.0, count of teeth = 4, creatorName = LisaChe
+id = 9, name = Ivan, coordinates: x = 1, y = 6, creationDate=2022-06-29, age=1, description = 'afsgsd', color = GREEN, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 12, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 13, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 14, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 15, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 16, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 17, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 18, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 19, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 20, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 21, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 22, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 23, name = Ivan, coordinates: x = 2, y = -24, creationDate=2022-06-29, age=89, description = 'wild', color is undefined, type = AIR, size of head = 3 count of eyes = 1.0, count of teeth = 2, creatorName = Liz
+id = 7, name = Alexiy, coordinates: x = 2, y = 3, creationDate=2022-06-29, age=22, description = 'rrrr', color = WHITE, type = AIR, size of head = 3 count of eyes = 2.0, count of teeth = 3, creatorName = Liz
+ 
+2022-06-29 04:49:20,240 INFO  [pool-4-thread-9] The response has been sent to the client. 
+2022-06-29 04:49:20,240 INFO  [pool-2-thread-10] New help command request has been received. 
+2022-06-29 04:49:20,242 INFO  [pool-3-thread-10] help command has been handled. 
+2022-06-29 04:49:20,242 TRACE  [pool-3-thread-10] Response message:
+The full list of commands is here: 
+add {element} : добавить новый элемент в коллекцию
+remove_head : вывести первый элемент коллекции и удалить его
+add_if_min {element} : добавить новый элемент в коллекцию, если его значение меньше, чем у наименьшего элемента этой коллекции
+execute_script file_name : считать и исполнить скрипт из указанного файла. В скрипте содержатся команды в таком же виде, в котором их вводит
+show : вывести в стандартный поток вывода все элементы коллекции в строковом представлении
+clear : очистить коллекцию
+remove_by_id id : удалить элемент из коллекции по его id
+update id {element} : обновить значение элемента коллекции, id которого равен заданному
+add_if_max {element} : добавить новый элемент в коллекцию, если его значение превышает значение наибольшего элемента этой коллекции
+print_ascending : вывести элементы коллекции в порядке возрастания
+help : вывести справку по доступным командам
+exit : завершить программу (без сохранения в файл)
+max_by_description : вывести любой объект из коллекции, значение поля description которого является максимальным
+filter_less_than_age age : вывести элементы, значение поля age которых меньше заданного
+info : вывести в стандартный поток вывода информацию о коллекции
+ 
+2022-06-29 04:49:20,243 INFO  [pool-4-thread-10] The response has been sent to the client. 

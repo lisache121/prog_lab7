@@ -1,0 +1,18 @@
+2022-06-26 22:09:08,549 TRACE  [main] server started 
+2022-06-26 22:09:26,048 INFO  [main] New remove_by_id command request has been received. 
+2022-06-26 22:09:26,309 ERROR  [main] Запрос не вернул результатов. 
+2022-06-26 22:09:26,311 INFO  [main] The response has been sent to the client. 
+2022-06-26 22:09:37,562 INFO  [main] New remove_by_id command request has been received. 
+2022-06-26 22:09:37,793 ERROR  [main] Запрос не вернул результатов. 
+2022-06-26 22:09:37,794 INFO  [main] The response has been sent to the client. 
+2022-06-26 22:09:45,265 INFO  [main] New show command request has been received. 
+2022-06-26 22:09:45,327 INFO  [main] The response has been sent to the client. 
+2022-06-26 22:10:40,945 INFO  [main] New add command request has been received. 
+2022-06-26 22:10:41,344 INFO  [main] The response has been sent to the client. 
+2022-06-26 22:10:43,850 INFO  [main] New show command request has been received. 
+2022-06-26 22:10:43,943 INFO  [main] The response has been sent to the client. 
+2022-06-26 22:10:57,492 INFO  [main] New remove_by_id command request has been received. 
+2022-06-26 22:10:57,764 ERROR  [main] Запрос не вернул результатов. 
+2022-06-26 22:10:57,766 INFO  [main] The response has been sent to the client. 
+2022-06-26 22:11:01,010 INFO  [main] New show command request has been received. 
+2022-06-26 22:11:01,070 INFO  [main] The response has been sent to the client. 

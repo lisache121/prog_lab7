@@ -1,0 +1,32 @@
+2022-06-27 09:37:01,915 TRACE  [main] server started 
+2022-06-27 09:37:23,579 INFO  [main] New sign_in command request has been received. 
+2022-06-27 09:37:23,696 INFO  [main] The response has been sent to the client. 
+2022-06-27 09:37:35,503 INFO  [main] New show command request has been received. 
+2022-06-27 09:37:35,829 INFO  [main] The response has been sent to the client. 
+2022-06-27 09:38:28,207 INFO  [main] New add_if_min command request has been received. 
+2022-06-27 09:38:28,716 INFO  [main] The response has been sent to the client. 
+2022-06-27 09:38:40,503 INFO  [main] New show command request has been received. 
+2022-06-27 09:38:40,637 INFO  [main] The response has been sent to the client. 
+2022-06-27 09:39:52,922 INFO  [main] New add_if_min command request has been received. 
+2022-06-27 09:39:52,996 INFO  [main] The response has been sent to the client. 
+2022-06-27 09:39:52,997 INFO  [main] New show command request has been received. 
+2022-06-27 09:39:53,130 INFO  [main] The response has been sent to the client. 
+2022-06-27 09:40:34,875 INFO  [main] New add_if_max command request has been received. 
+2022-06-27 09:40:35,281 INFO  [main] The response has been sent to the client. 
+2022-06-27 09:41:29,347 INFO  [main] New add_if_max command request has been received. 
+2022-06-27 09:41:29,428 INFO  [main] The response has been sent to the client. 
+2022-06-27 09:41:48,645 INFO  [main] New add_if_min command request has been received. 
+2022-06-27 09:41:48,722 INFO  [main] The response has been sent to the client. 
+2022-06-27 09:43:23,426 INFO  [main] New show command request has been received. 
+2022-06-27 09:43:23,564 INFO  [main] The response has been sent to the client. 
+2022-06-27 09:44:16,981 INFO  [main] New execute_script command request has been received. 
+2022-06-27 09:44:16,981 INFO  [main] The response has been sent to the client. 
+2022-06-27 09:44:16,985 INFO  [main] New add command request has been received. 
+2022-06-27 09:44:17,497 INFO  [main] The response has been sent to the client. 
+2022-06-27 09:44:17,500 INFO  [main] New show command request has been received. 
+2022-06-27 09:44:17,637 INFO  [main] The response has been sent to the client. 
+2022-06-27 09:44:17,640 INFO  [main] New print_ascending command request has been received. 
+2022-06-27 09:44:17,705 INFO  [main] The response has been sent to the client. 
+2022-06-27 09:44:17,710 INFO  [main] New show command request has been received. 
+2022-06-27 09:44:17,830 INFO  [main] The response has been sent to the client. 
+2022-06-27 09:44:17,832 INFO  [main] New remove_head command request has been received. 

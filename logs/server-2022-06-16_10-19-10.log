@@ -1,0 +1,3 @@
+2022-06-16 10:19:10,716 TRACE  [main] server started 
+2022-06-16 10:19:18,791 INFO  [main] New show command request has been received. 
+2022-06-16 10:19:18,806 INFO  [main] The response has been sent to the client. 

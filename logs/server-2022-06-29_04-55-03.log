@@ -1,0 +1,3 @@
+2022-06-29 04:55:03,963 TRACE  [main] server started 
+2022-06-29 04:55:04,141 INFO  [main] Authorization was succesfull 
+2022-06-29 04:55:11,860 INFO  [pool-2-thread-1] New sign_in command request has been received. 
